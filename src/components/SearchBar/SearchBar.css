@@ -2,7 +2,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-image: url('./background_search_desktop.jpg');
+  background-image: url('./background_search_desktop.webp');
   background-size: cover;
   background-repeat: no-repeat;
   height: 25rem;
@@ -65,7 +65,7 @@
 .SearchBar-submit a {
   border-radius: 4px;
   padding: .72rem 1.7rem;
-  background-color: #df6e12;
+  background-color: #A14E0E;
   color: #ffffff;
   font-weight: 600;
   transition: background-color .5s;
@@ -78,7 +78,7 @@
 
 @media only screen and (max-width: 560px) {
   .SearchBar {
-    background-image: url('./background_search_mobile.jpg');
+    background-image: url('./background_search_mobile.webp');
   }
 
   .SearchBar-sort-options ul {

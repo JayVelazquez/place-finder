@@ -20,8 +20,9 @@ A Yelp-like clone app that allows the user to search for Businesses using the Ye
 
 
 ## Features
-- Sort results by best results, highest rated, or most reviewed.
-- View results in results preferred.
+- Sorting options are best results, highest rated, and most reviewed to enhance user experience.
+
+- View your results in results preferred.
 
 
 ## Setup
